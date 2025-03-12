@@ -58,7 +58,7 @@ h2{
     animation: textAnimate 2s ease-in-out 0s infinite normal;
     font-size: small;
     font-weight: lighter;
-    margin-left: 250px;
+    
 }
 
 @keyframes textAnimate{
