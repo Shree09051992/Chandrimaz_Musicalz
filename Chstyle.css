@@ -55,7 +55,7 @@ h2{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color:bisque;
-    animation: textAnimate 2s ease-in-out 0s infinite normal;
+    animation: textAnimate 2s linear 0s infinite reverse;
     font-size: small;
     font-weight: lighter;
     margin-left: 100px;
