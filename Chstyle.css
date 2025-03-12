@@ -9,12 +9,14 @@ h1{
     
 }
 header{
+    display: flex;
     height:90px;
     width:auto;
     background-color: firebrick;
     text-align: center;
 }
 #navbar{
+    display:flex;
     position: static;
     height:90px;
     width:auto;
@@ -116,6 +118,8 @@ p{
     body{
         
         font-size: x-small;
+        display: flex;
+        justify-content: space-evenly;
     }
     #navbar{
             width:auto;
