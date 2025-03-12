@@ -5,7 +5,7 @@ h1{
     font-weight: bold;
     text-decoration: none;
     text-transform: uppercase;
-    color:goldenrod;
+    color:white;
     
 }
 #navbar{
@@ -58,14 +58,14 @@ h2{
 @keyframes textAnimate{
     from{
         font-size:small ;
-        color:goldenrod;
+        color:white;
         font-weight: bold;
 
     }
     to{
         font-size: xx-large;
         font-weight: bolder;
-        color:gold;
+        color:whitesmoke;
         transform: translate(50px);
     }
 }
