@@ -119,7 +119,7 @@ p{
     #navbar{
             width:auto;
             font-size: smaller;
-            position:relative;
+            position:absolute;
     }
     a{
         font-size: x-small;
@@ -128,7 +128,7 @@ p{
 
     header{
         width:auto;
-        position:relative;
+        position:absolute;
         font-size: medium;
 
     }
