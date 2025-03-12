@@ -111,16 +111,26 @@ p{
 
 }
 
-  @media (min-width:200) and (max-width:900) {
+  @media (max-width:1000px) and (min-width:200px) {
     body{
         
         font-size: x-small;
     }
     #navbar{
-            width:200;
+            width:auto;
+            font-size: smaller;
+            position:relative;
+    }
+    a{
+        font-size: x-small;
     }
 
-    
+    header{
+        width:auto;
+        position:relative;
+        font-size: medium;
+
+    }
   }  
 
 .dropdown-content a{
