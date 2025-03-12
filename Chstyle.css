@@ -111,7 +111,7 @@ p{
 
 }
 
-  @media (max-width:1000px) and (min-width:200px) {
+  @media (max-width:1000px) and (min-width:0px) {
     body{
         
         font-size: x-small;
