@@ -38,7 +38,6 @@ li{
     margin-top: 25px;
 }
 body{
-    background-image: url("music.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -55,7 +54,7 @@ body{
 h2{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    color:orangered;
+    color:goldenrod;
     animation: textAnimate 2s ease-in-out 0s infinite normal;
     font-size: small;
     font-weight: lighter;
