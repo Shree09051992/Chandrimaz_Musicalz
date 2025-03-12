@@ -38,15 +38,17 @@ li{
     margin-top: 25px;
 }
 body{
-    background-color: beige;
+    background-image: url("music.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 #body-sec{
     display: flex;
     height:1000px;
     width:auto;
     margin-top: 20px;
-    background-image: url("music.jpg");
-    background-size: cover;
+    
+    
     
     
 }
