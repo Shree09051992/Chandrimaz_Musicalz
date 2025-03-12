@@ -71,8 +71,8 @@ h2{
     to{
         font-size: xx-large;
         font-weight: bolder;
-        color:black;
-        transform: translate(50px);
+        color:beige;
+        transform: translate(50px,50px);
 
     }
 }
