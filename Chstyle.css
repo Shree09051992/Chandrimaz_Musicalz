@@ -58,14 +58,14 @@ h2{
 @keyframes textAnimate{
     from{
         font-size:small ;
-        color:orangered;
+        color:goldenrod;
         font-weight: bold;
 
     }
     to{
         font-size: xx-large;
         font-weight: bolder;
-        color:firebrick;
+        color:gold;
         transform: translate(50px);
     }
 }
