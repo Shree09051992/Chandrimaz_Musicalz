@@ -132,6 +132,9 @@ p{
         font-size: medium;
 
     }
+    h2{
+        margin-right: 25px;
+    }
   }  
 
 .dropdown-content a{
