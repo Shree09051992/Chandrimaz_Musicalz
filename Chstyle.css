@@ -8,6 +8,12 @@ h1{
     color:white;
     
 }
+header{
+    height:30px;
+    width:auto;
+    background-color: firebrick;
+    text-align: center;
+}
 #navbar{
     position: static;
     height:90px;
