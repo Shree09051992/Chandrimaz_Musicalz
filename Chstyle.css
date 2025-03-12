@@ -37,10 +37,7 @@ li{
     align-items: center;
     margin-top: 25px;
 }
-body{
-    background-size: contain;
-    background-repeat: repeat;
-}
+
 #body-sec{
     display: flex;
     height:1000px;
