@@ -5,11 +5,11 @@ h1{
     font-weight: bold;
     text-decoration: none;
     text-transform: uppercase;
-    color:black;
+    color:bisque;
     
 }
 header{
-    height:50px;
+    height:70px;
     width:auto;
     background-color: firebrick;
     text-align: center;
@@ -71,7 +71,7 @@ h2{
     to{
         font-size: xx-large;
         font-weight: bolder;
-        color:chocolate;
+        color:darkgreen;
         transform: translate(50px);
     }
 }
