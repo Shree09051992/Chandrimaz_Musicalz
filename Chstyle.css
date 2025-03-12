@@ -38,8 +38,8 @@ li{
     margin-top: 25px;
 }
 body{
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-size: contain;
+    background-repeat: repeat;
 }
 #body-sec{
     display: flex;
