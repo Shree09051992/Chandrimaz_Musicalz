@@ -71,8 +71,9 @@ h2{
     to{
         font-size: xx-large;
         font-weight: bolder;
-        color:darkgreen;
+        color:black;
         transform: translate(50px);
+
     }
 }
 #aboutme{
@@ -112,8 +113,11 @@ p{
 
   @media (min-width:200) and (max-width:900) {
     body{
-        transform: skew(45deg);
+        
         font-size: x-small;
+    }
+    #navbar{
+            width:200;
     }
 
     
